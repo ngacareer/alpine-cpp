@@ -9,9 +9,7 @@
 - Where to file issues <a href="https://github.com/ngacareer/alpine-cpp/issues">https://github.com/ngacareer/alpine-cpp/issues</a>
 
 ## What is alpine-cpp ? 
-
-Swift Alpine Linux. CMake-generated files will be stored, then compile C++ project
-
+The C++ images are based on Alpine Linux. CMake-generated files will be stored, then compile C++ project
 ## How to use this image
 - On Docker 
 ```
