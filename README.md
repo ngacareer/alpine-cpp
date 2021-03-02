@@ -3,14 +3,14 @@
 - Where to get help: <a href="https://forums.docker.com/">the Docker Community Forums</a>, <a href="https://dockr.ly/slack">the Docker Community Slack</a>, or <a href="https://stackoverflow.com/search?tab=newest&amp;q=docker">Stack Overflow</a>
 
 ## Supported tags and respective Dockerfile links
-- <a href="https://github.com/ngacareer/alpine-cpp/blob/master/Dockerfile">latest (3.0.0)</a>
+- <a href="https://github.com/ngacareer/alpine-cpp/blob/master/Dockerfile">latest</a>
 
 ## Quick reference (cont.)
 - Where to file issues <a href="https://github.com/ngacareer/alpine-cpp/issues">https://github.com/ngacareer/alpine-cpp/issues</a>
 
 ## What is alpine-cpp ? 
 
-The C++ images are based on Alpine Linux. CMake-generated files will be stored, then compile C++ project
+Swift Alpine Linux. CMake-generated files will be stored, then compile C++ project
 
 ## How to use this image
 - On Docker 
